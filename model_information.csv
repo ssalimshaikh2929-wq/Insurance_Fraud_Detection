@@ -1,0 +1,2 @@
+model,balancing_method,accuracy,precision,recall,f1,roc_auc
+Decision Tree,smote,0.79,0.5660377358490566,0.6122448979591837,0.5882352941176471,0.7299635085822408
